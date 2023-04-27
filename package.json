@@ -17,10 +17,5 @@
     "start": "cds-serve"
   },
   "cds": {
-    "requires": {
-      "db": {
-        "kind": "hana-cloud"
-      }
-    }
   }
 }
